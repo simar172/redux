@@ -1,0 +1,16 @@
+.sze {
+  width: 1000px;
+  margin: 1rem;
+}
+.crd {
+  width: 18rem;
+  margin: 50px;
+}
+.crt {
+  width: 30rem;
+  margin-left: 500px;
+  border-color: black;
+}
+.btn {
+  width: 30%;
+}
